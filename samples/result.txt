@@ -1,0 +1,4 @@
+Algorithms and data structures are important in computer science.
+Huffman coding is used for lossless data compression.
+Characters that appear many times get shorter binary codes.
+Characters that appear only a few times get longer binary codes.
